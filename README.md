@@ -13,5 +13,6 @@ When `#` is received byte in the current pointer position is considered function
 | ID    | Description                                    | Args         |
 |-------|------------------------------------------------|--------------|
 | 0     | Adds 16 to current memory position             |              |
-| 1     | Opens a file and writes its contents to memory | char* path   |
+| 1     | Prints out everything from memory position     |              |
+| 2     | Opens a file and writes its contents to memory | char* path   |
 
