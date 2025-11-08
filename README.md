@@ -5,7 +5,7 @@ Brainfuck but with a few more things
 Functions are defined with `{}` and called with `#` symbol.
 
 ## Defining Functions
-Once a function definition begins number in the current position becomes the function id which can later be used to call it. First 16 ids are reserved for library functions. This means user can define up to 240 functions between range [16-255].
+Once a function definition begins, number in the current pointer position becomes the function id which can later be used to call it. First 16 ids are reserved for library functions. This means user can define up to 240 functions between range [16-255].
 
 When `#` is received byte in the current pointer position is considered function id
 
