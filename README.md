@@ -1,4 +1,4 @@
-# Brainfuck_Enchaned
+# Brainfuck_Enhanced
 Brainfuck but with a few more things
 
 # Functions
